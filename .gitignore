@@ -1,9 +1,5 @@
 #kira131
 
-
-
-
-
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -15,10 +11,6 @@
 *.ap_
 *.aab
 
-
-
-
-
 # Gradle files
 .gradle/
 
@@ -27,7 +19,6 @@
 
 # User-specific configurations
 *.iml
-
 
 # Local configuration file (sdk path, etc)
 local.properties
