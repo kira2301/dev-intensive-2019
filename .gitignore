@@ -1,3 +1,5 @@
+#kira131
+
 # Gradle files
 .gradle/
 
@@ -11,4 +13,4 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db
+Thumbs.db 
